@@ -1,5 +1,5 @@
 # blog
-Keep It Simple, Stupid.  
+Keep It Simple, Stupid.  
 如果您在阅读的过程中，发现错误或者有不同的见解，恳请指正，非常感谢。
 
 ## 2018.02
