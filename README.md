@@ -1,5 +1,6 @@
 # blog
-Keep It Simple, Stupid.
+Keep It Simple, Stupid.  
+如果您在阅读的过程中，发现错误或者有不同的见解，恳请指正，非常感谢。
 
 ## 2018.02
 1.[现代JavaScript概念的词汇表](https://github.com/kangschampagne/blog/issues/2)  
