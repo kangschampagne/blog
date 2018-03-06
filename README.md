@@ -11,4 +11,4 @@ Keep It Simple, Stupid.
 
 ## 2018.03
 1.[在 iframe 中的一些技巧和思考](https://github.com/kangschampagne/blog/issues/7)  
-2.[Canvas专题 - 初识<canvas>](https://github.com/kangschampagne/blog/issues/9)  
+2.[Canvas专题 - 初识canvas](https://github.com/kangschampagne/blog/issues/9)  
