@@ -16,3 +16,4 @@ Keep It Simple, Stupid.
 4.[如何做好节点克隆(cloneNode)?](https://github.com/kangschampagne/blog/issues/11)  
 5.[关于 tinymce mobile 的学习](https://github.com/kangschampagne/blog/issues/12)(未完)  
 6.[Canvas专题 - 文本和图片](https://github.com/kangschampagne/blog/issues/13)  
+7.[Canvas专题 - 变形Transformations](https://github.com/kangschampagne/blog/issues/15)  
