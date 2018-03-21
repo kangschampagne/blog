@@ -18,3 +18,4 @@ Keep It Simple, Stupid.
 6.[Canvas专题 - 文本和图片](https://github.com/kangschampagne/blog/issues/13)  
 7.[Canvas专题 - 变形Transformations](https://github.com/kangschampagne/blog/issues/15)  
 8.[Canvas专题 - 复合](https://github.com/kangschampagne/blog/issues/16)  
+9.[使用 webpack DevServer 解决跨域开发的思考](https://github.com/kangschampagne/blog/issues/18)  
