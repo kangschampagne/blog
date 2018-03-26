@@ -20,3 +20,4 @@ Keep It Simple, Stupid.
 8.[Canvas专题 - 复合](https://github.com/kangschampagne/blog/issues/16)  
 9.[使用 webpack DevServer 解决跨域开发的思考](https://github.com/kangschampagne/blog/issues/18)  
 10.[reduce() map() 引发的思考](https://github.com/kangschampagne/blog/issues)  
+11.[了解 HTTP2.0](https://github.com/kangschampagne/blog/issues/20)  
