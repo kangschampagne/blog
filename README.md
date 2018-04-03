@@ -22,3 +22,14 @@ Keep It Simple, Stupid.
 10.[reduce() map() 引发的思考](https://github.com/kangschampagne/blog/issues)  
 11.[了解 HTTP2.0](https://github.com/kangschampagne/blog/issues/20)  
 12.[工具函数 - 防抖动debounce](https://github.com/kangschampagne/blog/issues/22)
+
+## 2018.04
+1.[工具函数 - unique 去重](https://github.com/kangschampagne/blog/issues/23)  
+  
+  
+  
+  
+  
+---
+码字不易，转载记得注明下出处噢~  
+有任何问题都可以联系我.  
