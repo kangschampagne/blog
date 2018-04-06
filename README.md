@@ -25,6 +25,7 @@ Keep It Simple, Stupid.
 
 ## 2018.04
 1.[工具函数 - unique 去重](https://github.com/kangschampagne/blog/issues/23)  
+2.[前端监控 - 错误监控与收集](https://github.com/kangschampagne/blog/issues/24)  
   
   
   
