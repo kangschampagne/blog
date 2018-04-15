@@ -28,7 +28,8 @@ Keep It Simple, Stupid.
 2.[前端监控 - 错误监控与收集](https://github.com/kangschampagne/blog/issues/24)  
 3.[Vue专题 - 组件间通信](https://github.com/kangschampagne/blog/issues/26)  
 4.[Koa专题 - 认识koa](https://github.com/kangschampagne/blog/issues/28)  
-  
+5.[Vue专题 - Vue.nextTick() 的一些思考](https://github.com/kangschampagne/blog/issues/29)  
+  
   
   
 ---
