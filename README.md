@@ -31,7 +31,7 @@ Keep It Simple, Stupid.
 5.[Vue专题 - Vue.nextTick() 的一些思考](https://github.com/kangschampagne/blog/issues/29)  
 6.[网络协议专题 - 域名系统 DNS](https://github.com/kangschampagne/blog/issues/30)  
 7.[单页面应用中的路由跳转](https://github.com/kangschampagne/blog/issues/33)  
-
+8.[WebAPI专题 - 文件和二进制操作](https://github.com/kangschampagne/blog/issues/34)  
   
   
 ---
