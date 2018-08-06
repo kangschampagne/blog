@@ -40,6 +40,9 @@ Keep It Simple, Stupid.
 1.[webpack专题 - 路径问题](https://github.com/kangschampagne/blog/issues/39)  
 2.[PWA专题 - 初识 PWA](https://github.com/kangschampagne/blog/issues/40)  
 
+## 2018.08
+1.[Lerna 管理多个 package](https://github.com/kangschampagne/blog/issues/43)  
+
 
   
 ---
