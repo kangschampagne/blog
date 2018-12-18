@@ -46,6 +46,9 @@ Keep It Simple, Stupid.
 ## 2018.09
 1.[无障碍访问实践专题 1 - 前言](https://github.com/kangschampagne/blog/issues/44)  
 
+## 2018.12
+1.[关于 prefetching 的所有事](https://github.com/kangschampagne/blog/issues/46)  
+
 
   
 ---
