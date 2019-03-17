@@ -49,7 +49,8 @@ Keep It Simple, Stupid.
 ## 2018.12
 1.[关于 prefetching 的所有事](https://github.com/kangschampagne/blog/issues/46)  
 
-
+## 2019.03  
+1.[使用 Gatsby 构建新版博客](https://github.com/kangschampagne/blog/issues/47)  
   
 ---
 码字不易，转载记得注明下出处噢~  
