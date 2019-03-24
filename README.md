@@ -51,6 +51,8 @@ Keep It Simple, Stupid.
 
 ## 2019.03  
 1.[使用 Gatsby 构建新版博客](https://github.com/kangschampagne/blog/issues/47)  
+2.[Lib专题 - 初识 IoC 框架 InversifyJS](https://github.com/kangschampagne/blog/issues/48)  
+
   
 ---
 码字不易，转载记得注明下出处噢~  
